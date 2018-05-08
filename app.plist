@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.msxt.yyjz</string>
+				<string>com.xyzq.jzyy</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>民生信托</string>
+				<string>组件Demo</string>
 			</dict>
 			
 		</dict>
